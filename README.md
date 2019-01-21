@@ -4,7 +4,7 @@
 
 Welcome !
 
-The 42sh is an Epitech project that aims in creating a complete shell from scratch.  
+The 42sh is an Epitech project that aims in creating a complete shell from scratch in my first year.  
 This it's just a basic shell how can execute shell command line in UNIX system.  
 Built only with `Standard C Lib`.
 
@@ -67,7 +67,7 @@ There is no documentation for this project.
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on my code of conduct.
 
 ## Authors
 
