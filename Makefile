@@ -14,7 +14,7 @@ RM	= rm -f
 
 NAME	= 42sh
 
-CFLAGS	+= -W -Wall -Werror -Wextra \
+CFLAGS	+= -W -Wall -Wextra \
 	   -I./include/
 
 LIB     = -lmy -L./lib/
