@@ -9,7 +9,6 @@ This it's just a basic shell how can execute shell command line in UNIX system.
 Built only with `Standard C Lib`.
 
 ## Getting started
----
 ### Prerequisites
 
 Unix System with all Standard C Lib
@@ -20,7 +19,7 @@ First you need to clone the repository:
 Do not forget to upload your SSH Key into github and having the right access.
 
 ```bash
-git clone git@github.com:MM-IT/website.git
+git@github.com:werayn/42sh.git
 ```
 
 After you need run it:
